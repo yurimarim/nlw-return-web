@@ -5,6 +5,7 @@ Feedback Widget - Projeto desenvolvido durante a edição Next Level Week: Retur
 ## Tecnologias Utilizadas
 
 - React
+- Typescript
 - Vite
 - Headless UI
 - Phosphor
