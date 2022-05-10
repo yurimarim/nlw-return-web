@@ -13,3 +13,9 @@ Feedback Widget - Projeto desenvolvido durante a edição Next Level Week: Retur
 - Tailwindcss Forms Plugin
 - Tailwind Scrollbar
 - HTML2Canvas (Print System)
+
+Back-end:
+- Nodemailer
+- Mailtrap
+- Jest
+- Cors
