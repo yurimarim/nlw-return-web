@@ -68,7 +68,6 @@ export function WidgetForm() {
           )}
         </>
       ) }
-
       <footer className="text-xs text-neutral-400">
         Feito com ♥ pelo <a href="https://github.com/yurimarim" target="_blank" className="underline underline-offset-2">Yuri Marim</a>
       </footer>
